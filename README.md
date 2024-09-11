@@ -1,2 +1,2 @@
 # Forcasting
-Here i have upload all the working Forcasting models.
+Here i have uploaded all the working Forcasting models.
